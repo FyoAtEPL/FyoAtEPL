@@ -1,6 +1,6 @@
 # Hello, World! I'm Fyodor. (Readme still under construction)
 
-I'm a digital humanist, meaning I use computers to study the humanities. Currently I'm a librarian, working in my home turf of Northeast Indiana. I wouldn't consider myself a developer at the moment, but I'm learning. Currently, this is my dumping ground for work projects. 
+I'm a digital humanist, meaning I use computers to study the humanities. Currently I'm a librarian, working in my home turf of Northeast Indiana. This is my dumping ground for projects I wouldn't consider myself a developer at the moment, but I'm learning.
 
 I have another github, [@Orleansian](https://github.com/Orleansian "Orleansian"), where I'm transcribing a medieval manuscript, British Library Harley MS 682.
 
